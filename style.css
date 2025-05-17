@@ -7,6 +7,12 @@ aside{
     color: #333;
 
 }
+h1{
+    font-size: 2em;
+    color: #2a2a2a;
+    text-align: center;
+    margin-bottom: 20px;
+}
 aside img{
     width: 200px;
     height: auto;
